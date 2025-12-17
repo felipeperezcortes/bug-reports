@@ -4,7 +4,6 @@ Este repositorio contiene bug reports documentados en formato Markdown, creados 
 
 Cada bug report describe un defecto funcional detectado durante las pruebas, con información suficiente para su correcta reproducción y análisis por parte de equipos de desarrollo.
 
-⸻
 
 ## Contenido del repositorio
 
@@ -14,8 +13,7 @@ Los bug reports incluyen:
 	•	Resultado esperado vs resultado actual
 	•	Severidad y prioridad
 	•	Contexto funcional del problema
-
-⸻
+	
 
 ## Alcance de los defectos reportados
 
@@ -25,7 +23,6 @@ Los defectos documentados están relacionados con:
 	•	Persistencia incorrecta de datos
 	•	Flujos funcionales inconsistentes
 
-⸻
 
 ## Objetivo del repositorio
 
