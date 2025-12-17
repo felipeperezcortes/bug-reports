@@ -7,6 +7,11 @@ Cada bug report describe un defecto funcional detectado durante las pruebas, con
 
 ## Contenido del repositorio
 
+- [BUG-001 – Mensaje incorrecto al ingresar un root válido en el login](BUG-001-mensaje-incorrecto-root-valido.md)
+- [BUG-002 – Mensaje incorrecto al intentar hacer login sin ingresar el root](BUG-002-mensaje-incorrecto-root-vacio.md)
+- [BUG-003 – Mensaje incorrecto al intentar realizar una transferencia sin saldo suficiente](BUG-003-mensaje-incorrecto-saldo-insuficiente.md)
+- [BUG-004 – Mensaje de éxito al actualizar correo, pero se mantiene el correo antiguo](BUG-004-correo-no-actualizado.md)
+
 Los bug reports incluyen:
 	•	Descripción clara del defecto
 	•	Pasos para reproducir el error
